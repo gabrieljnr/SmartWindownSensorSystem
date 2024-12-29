@@ -1,4 +1,4 @@
-# SmartWindownSensorSystem
+# SmartWindowSensorSystem
 
 Windows Automation Project
 
